@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774143640925",
+    "firebase_url": "https://nsromapa-6afe0.firebaseio.com",
+    "project_id": "nsromapa-6afe0",
+    "storage_bucket": "nsromapa-6afe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774143640925:android:70cf620c8e770dbe",
+        "android_client_info": {
+          "package_name": "com.nsromapa.nsromapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774143640925-f6o5bhuilatlgstjqtgt4ncrr8mdfe66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeS7Ijq-WuX_w-JKbYyheemm5qZ4z5WBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
